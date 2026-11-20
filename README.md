@@ -206,3 +206,6 @@ This repository serves as the official landing page for Dawn Chorus. The softwar
 - 💬 **[Community](https://waery.berga.top/about-us/)**
 ---
 **Get the most recent version of Dawn Chorus today!**
+
+---
+**Last updated:** 2026-11-20 12:28:22 UTC
