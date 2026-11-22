@@ -208,4 +208,4 @@ This repository serves as the official landing page for Dawn Chorus. The softwar
 **Get the most recent version of Dawn Chorus today!**
 
 ---
-**Last updated:** 2026-11-22 10:39:43 UTC
+**Last updated:** 2026-11-22 18:12:18 UTC
